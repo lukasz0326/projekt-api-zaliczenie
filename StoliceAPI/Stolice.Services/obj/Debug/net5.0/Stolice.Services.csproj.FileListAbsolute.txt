@@ -1,0 +1,15 @@
+C:\Users\lukas\source\repos\StoliceAPI\Stolice.Services\obj\Debug\net5.0\Stolice.Services.csprojAssemblyReference.cache
+C:\Users\lukas\source\repos\StoliceAPI\Stolice.Services\obj\Debug\net5.0\Stolice.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\source\repos\StoliceAPI\Stolice.Services\obj\Debug\net5.0\Stolice.Services.AssemblyInfoInputs.cache
+C:\Users\lukas\source\repos\StoliceAPI\Stolice.Services\obj\Debug\net5.0\Stolice.Services.AssemblyInfo.cs
+C:\Users\lukas\source\repos\StoliceAPI\Stolice.Services\obj\Debug\net5.0\Stolice.Services.csproj.CoreCompileInputs.cache
+C:\Users\lukas\source\repos\StoliceAPI\Stolice.Services\bin\Debug\net5.0\Stolice.Services.deps.json
+C:\Users\lukas\source\repos\StoliceAPI\Stolice.Services\bin\Debug\net5.0\Stolice.Services.dll
+C:\Users\lukas\source\repos\StoliceAPI\Stolice.Services\bin\Debug\net5.0\ref\Stolice.Services.dll
+C:\Users\lukas\source\repos\StoliceAPI\Stolice.Services\bin\Debug\net5.0\Stolice.Services.pdb
+C:\Users\lukas\source\repos\StoliceAPI\Stolice.Services\bin\Debug\net5.0\Stolice.Database.dll
+C:\Users\lukas\source\repos\StoliceAPI\Stolice.Services\bin\Debug\net5.0\Stolice.Database.pdb
+C:\Users\lukas\source\repos\StoliceAPI\Stolice.Services\obj\Debug\net5.0\Stolice.Services.csproj.CopyComplete
+C:\Users\lukas\source\repos\StoliceAPI\Stolice.Services\obj\Debug\net5.0\Stolice.Services.dll
+C:\Users\lukas\source\repos\StoliceAPI\Stolice.Services\obj\Debug\net5.0\ref\Stolice.Services.dll
+C:\Users\lukas\source\repos\StoliceAPI\Stolice.Services\obj\Debug\net5.0\Stolice.Services.pdb
